@@ -1,0 +1,7 @@
+D:/stm32/hal_2025/rtos_practice/CMakeFiles/rtos_practice.dir
+D:/stm32/hal_2025/rtos_practice/CMakeFiles/edit_cache.dir
+D:/stm32/hal_2025/rtos_practice/CMakeFiles/rebuild_cache.dir
+D:/stm32/hal_2025/rtos_practice/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/stm32/hal_2025/rtos_practice/cmake/stm32cubemx/CMakeFiles/RTOS2.dir
+D:/stm32/hal_2025/rtos_practice/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/stm32/hal_2025/rtos_practice/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
