@@ -209,6 +209,10 @@ static int cli_esc_work(char esc_chr, cli_work_t *cli_work)
         {
             cli_work->history_pos--;
         }
+        else if (cli_work->history_pos == 0)
+        {
+            goto out;
+        }
         goto history_out;
 
     case CLI_ESC_SPECIAL:

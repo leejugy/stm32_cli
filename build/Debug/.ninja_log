@@ -52,3 +52,5 @@
 542	1022	7788580382786396	rtos_practice.elf	265bc24de91a2559
 6	541	7788584722740204	CMakeFiles/rtos_practice.dir/Core/Src/cli.c.obj	b65a440403ed0084
 542	1057	7788584727770569	rtos_practice.elf	265bc24de91a2559
+7	552	7788594529479302	CMakeFiles/rtos_practice.dir/Core/Src/cli.c.obj	b65a440403ed0084
+553	1060	7788594534426471	rtos_practice.elf	265bc24de91a2559
