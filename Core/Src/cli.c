@@ -258,6 +258,11 @@ static void cli_del_str(cli_work_t *cli_work)
 {
     int idx = 0;
 
+    if (cli_work->cur_pos == 0)
+    {
+        return;
+    }
+
     for (idx = cli_work->cur_pos; idx < cli_work->rx_cnt; idx++)
     {
         cli_work->rx[idx - 1] = cli_work->rx[idx];
